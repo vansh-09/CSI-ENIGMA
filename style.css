@@ -5,3 +5,10 @@ body {
   background: radial-gradient(ellipse at center, #0f0f0f 0%, #000000 100%);
   color: #ffffff;
 }
+.hero-bg {
+  background-image: url('ng.webp');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  position: relative;
+}
